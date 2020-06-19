@@ -1,0 +1,15 @@
+.bordered{
+  border: 1px solid lightgrey;
+}
+
+.containerInput{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.containerInput  div {
+  
+  margin:10px;
+  font-size: small;
+}
